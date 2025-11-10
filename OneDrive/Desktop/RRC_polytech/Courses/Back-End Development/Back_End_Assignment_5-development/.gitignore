@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.vscode/
+.env
+back-end-assginment-3-firebase-adminsdk-fbsvc-3d8d21f705.json
